@@ -13,7 +13,7 @@ SELECT * FROM about_me
 
 ```python
 print("husanme.github.io")
-print("(https://www.linkedin.com/in/omar-humberto-s%C3%A1nchez-m%C3%A9ndez-a5781546/)")
+print("https://www.linkedin.com/in/omar-humberto")
 ```
 
 <div align="center">
