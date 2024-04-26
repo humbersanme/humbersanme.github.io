@@ -17,7 +17,7 @@ print("(https://www.linkedin.com/in/omar-humberto-s%C3%A1nchez-m%C3%A9ndez-a5781
 ```
 
 <div align="center">
-<a href="https://sanmen.es">Website</a> | <a href="(https://www.linkedin.com/in/omar-humberto-s%C3%A1nchez-m%C3%A9ndez-a5781546/)">LinkedIn</a>
+<a href="https://sanmen.es">Website</a> | <a href="https://www.linkedin.com/in/omar-humberto-s%C3%A1nchez-m%C3%A9ndez-a5781546/">LinkedIn</a>
 </div># Data science & Analyst / Web Development
 
 
